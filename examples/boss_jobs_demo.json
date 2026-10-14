@@ -1,0 +1,86 @@
+{
+  "data_source": "synthetic",
+  "note": "所有职位、公司、薪资与职责均为虚构示例，不代表市场统计。",
+  "keyword": "合成岗位示例",
+  "city": "示例城市",
+  "jobs": [
+    {
+      "job_id": "demo-01",
+      "title": "Python 开发工程师",
+      "company": "虚构公司 A",
+      "salary": "20-30K",
+      "salary_source": "synthetic",
+      "location": "示例城市·东区",
+      "tags": "本科 | 3-5年",
+      "job_labels": "本科 | 3-5年",
+      "skills": "Python | SQL",
+      "job_link": "https://example.invalid/jobs/demo-01",
+      "data_source": "synthetic"
+    },
+    {
+      "job_id": "demo-02",
+      "title": "数据分析师",
+      "company": "虚构公司 A",
+      "salary": "15-25K",
+      "salary_source": "synthetic",
+      "location": "示例城市·东区",
+      "tags": "本科 | 1-3年",
+      "job_labels": "本科 | 1-3年",
+      "skills": "Python | Excel | SQL",
+      "job_link": "https://example.invalid/jobs/demo-02",
+      "data_source": "synthetic"
+    },
+    {
+      "job_id": "demo-03",
+      "title": "数据工程师",
+      "company": "虚构公司 B",
+      "salary": "25-35K",
+      "salary_source": "synthetic",
+      "location": "示例城市·西区",
+      "tags": "本科 | 3-5年",
+      "job_labels": "本科 | 3-5年",
+      "skills": "Python | SQL | ETL",
+      "job_link": "https://example.invalid/jobs/demo-03",
+      "data_source": "synthetic"
+    },
+    {
+      "job_id": "demo-04",
+      "title": "后端开发工程师",
+      "company": "虚构公司 B",
+      "salary": "20-30K",
+      "salary_source": "synthetic",
+      "location": "示例城市·西区",
+      "tags": "本科 | 3-5年",
+      "job_labels": "本科 | 3-5年",
+      "skills": "Python | PostgreSQL",
+      "job_link": "https://example.invalid/jobs/demo-04",
+      "data_source": "synthetic"
+    },
+    {
+      "job_id": "demo-05",
+      "title": "算法工程师",
+      "company": "虚构公司 C",
+      "salary": "30-45K",
+      "salary_source": "synthetic",
+      "location": "示例城市·南区",
+      "tags": "硕士 | 3-5年",
+      "job_labels": "硕士 | 3-5年",
+      "skills": "Python | 机器学习",
+      "job_link": "https://example.invalid/jobs/demo-05",
+      "data_source": "synthetic"
+    },
+    {
+      "job_id": "demo-06",
+      "title": "数据开发实习生",
+      "company": "虚构公司 C",
+      "salary": "200-300元/天",
+      "salary_source": "synthetic",
+      "location": "示例城市·南区",
+      "tags": "本科 | 经验不限",
+      "job_labels": "本科 | 经验不限",
+      "skills": "Python | SQL",
+      "job_link": "https://example.invalid/jobs/demo-06",
+      "data_source": "synthetic"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+[
+  {
+    "job_id": "demo-01",
+    "title": "Python 开发工程师",
+    "company": "虚构公司 A",
+    "salary": "20-30K",
+    "salary_source": "synthetic",
+    "location": "示例城市·东区",
+    "tags": "本科 | 3-5年",
+    "job_labels": "本科 | 3-5年",
+    "skills": "Python | SQL",
+    "job_link": "https://example.invalid/jobs/demo-01",
+    "data_source": "synthetic",
+    "jd": "岗位职责\n1. 使用 Python 处理结构化数据，完成清洗、去重与统计。\n2. 维护数据质量检查和结果导出，编写自动化测试。\n任职要求\n1. 熟悉 Python 和 SQL，能够解释异常处理与数据保留策略。\n2. 能够清晰记录验证方法，分析统计结果的适用范围。\n说明：该职位、公司、薪资及职责均为人为构造的演示内容，不对应真实招聘信息。",
+    "job_responsibilities": [
+      "处理结构化数据并完成统计",
+      "维护数据质量检查和自动化测试"
+    ],
+    "job_requirements": [
+      "熟悉 Python 与 SQL",
+      "能够记录验证方法与适用范围"
+    ],
+    "extract_status": "success"
+  },
+  {
+    "job_id": "demo-02",
+    "title": "数据分析师",
+    "company": "虚构公司 A",
+    "salary": "15-25K",
+    "salary_source": "synthetic",
+    "location": "示例城市·东区",
+    "tags": "本科 | 1-3年",
+    "job_labels": "本科 | 1-3年",
+    "skills": "Python | Excel | SQL",
+    "job_link": "https://example.invalid/jobs/demo-02",
+    "data_source": "synthetic",
+    "jd": "岗位职责\n1. 使用 Python 处理结构化数据，完成清洗、去重与统计。\n2. 维护数据质量检查和结果导出，编写自动化测试。\n任职要求\n1. 熟悉 Python 和 SQL，能够解释异常处理与数据保留策略。\n2. 能够清晰记录验证方法，分析统计结果的适用范围。\n说明：该职位、公司、薪资及职责均为人为构造的演示内容，不对应真实招聘信息。",
+    "job_responsibilities": [
+      "处理结构化数据并完成统计",
+      "维护数据质量检查和自动化测试"
+    ],
+    "job_requirements": [
+      "熟悉 Python 与 SQL",
+      "能够记录验证方法与适用范围"
+    ],
+    "extract_status": "success"
+  },
+  {
+    "job_id": "demo-03",
+    "title": "数据工程师",
+    "company": "虚构公司 B",
+    "salary": "25-35K",
+    "salary_source": "synthetic",
+    "location": "示例城市·西区",
+    "tags": "本科 | 3-5年",
+    "job_labels": "本科 | 3-5年",
+    "skills": "Python | SQL | ETL",
+    "job_link": "https://example.invalid/jobs/demo-03",
+    "data_source": "synthetic",
+    "jd": "岗位职责\n1. 使用 Python 处理结构化数据，完成清洗、去重与统计。\n2. 维护数据质量检查和结果导出，编写自动化测试。\n任职要求\n1. 熟悉 Python 和 SQL，能够解释异常处理与数据保留策略。\n2. 能够清晰记录验证方法，分析统计结果的适用范围。\n说明：该职位、公司、薪资及职责均为人为构造的演示内容，不对应真实招聘信息。",
+    "job_responsibilities": [
+      "处理结构化数据并完成统计",
+      "维护数据质量检查和自动化测试"
+    ],
+    "job_requirements": [
+      "熟悉 Python 与 SQL",
+      "能够记录验证方法与适用范围"
+    ],
+    "extract_status": "success"
+  },
+  {
+    "job_id": "demo-04",
+    "title": "后端开发工程师",
+    "company": "虚构公司 B",
+    "salary": "20-30K",
+    "salary_source": "synthetic",
+    "location": "示例城市·西区",
+    "tags": "本科 | 3-5年",
+    "job_labels": "本科 | 3-5年",
+    "skills": "Python | PostgreSQL",
+    "job_link": "https://example.invalid/jobs/demo-04",
+    "data_source": "synthetic",
+    "jd": "岗位职责\n1. 使用 Python 处理结构化数据，完成清洗、去重与统计。\n2. 维护数据质量检查和结果导出，编写自动化测试。\n任职要求\n1. 熟悉 Python 和 SQL，能够解释异常处理与数据保留策略。\n2. 能够清晰记录验证方法，分析统计结果的适用范围。\n说明：该职位、公司、薪资及职责均为人为构造的演示内容，不对应真实招聘信息。",
+    "job_responsibilities": [
+      "处理结构化数据并完成统计",
+      "维护数据质量检查和自动化测试"
+    ],
+    "job_requirements": [
+      "熟悉 Python 与 SQL",
+      "能够记录验证方法与适用范围"
+    ],
+    "extract_status": "success"
+  },
+  {
+    "job_id": "demo-05",
+    "title": "算法工程师",
+    "company": "虚构公司 C",
+    "salary": "30-45K",
+    "salary_source": "synthetic",
+    "location": "示例城市·南区",
+    "tags": "硕士 | 3-5年",
+    "job_labels": "硕士 | 3-5年",
+    "skills": "Python | 机器学习",
+    "job_link": "https://example.invalid/jobs/demo-05",
+    "data_source": "synthetic",
+    "jd": "岗位职责\n1. 使用 Python 处理结构化数据，完成清洗、去重与统计。\n2. 维护数据质量检查和结果导出，编写自动化测试。\n任职要求\n1. 熟悉 Python 和 SQL，能够解释异常处理与数据保留策略。\n2. 能够清晰记录验证方法，分析统计结果的适用范围。\n说明：该职位、公司、薪资及职责均为人为构造的演示内容，不对应真实招聘信息。",
+    "job_responsibilities": [
+      "处理结构化数据并完成统计",
+      "维护数据质量检查和自动化测试"
+    ],
+    "job_requirements": [
+      "熟悉 Python 与 SQL",
+      "能够记录验证方法与适用范围"
+    ],
+    "extract_status": "success"
+  },
+  {
+    "job_id": "demo-06",
+    "title": "数据开发实习生",
+    "company": "虚构公司 C",
+    "salary": "200-300元/天",
+    "salary_source": "synthetic",
+    "location": "示例城市·南区",
+    "tags": "本科 | 经验不限",
+    "job_labels": "本科 | 经验不限",
+    "skills": "Python | SQL",
+    "job_link": "https://example.invalid/jobs/demo-06",
+    "data_source": "synthetic",
+    "jd": "岗位职责\n1. 使用 Python 处理结构化数据，完成清洗、去重与统计。\n2. 维护数据质量检查和结果导出，编写自动化测试。\n任职要求\n1. 熟悉 Python 和 SQL，能够解释异常处理与数据保留策略。\n2. 能够清晰记录验证方法，分析统计结果的适用范围。\n说明：该职位、公司、薪资及职责均为人为构造的演示内容，不对应真实招聘信息。",
+    "job_responsibilities": [
+      "处理结构化数据并完成统计",
+      "维护数据质量检查和自动化测试"
+    ],
+    "job_requirements": [
+      "熟悉 Python 与 SQL",
+      "能够记录验证方法与适用范围"
+    ],
+    "extract_status": "success"
+  }
+]
